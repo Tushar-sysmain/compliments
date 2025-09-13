@@ -1,0 +1,3 @@
+- [x] Fix script.js: correct textContent() to textContent and set to '' instead of ' '
+- [x] Update script.js to handle line breaks and spaces properly using innerHTML
+- Test the animation in browser
