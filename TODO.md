@@ -1,0 +1,5 @@
+- [x] Fix script.js: correct textContent() to textContent and set to '' instead of ' '
+- [x] Update script.js to handle line breaks and spaces properly using innerHTML
+- [x] Add background music that plays automatically
+- Test the animation in browser
+- Test the background music functionality
